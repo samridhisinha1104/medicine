@@ -1,0 +1,1 @@
+This project is a medicine recommendation system designed to assist users in identifying relevant medicines based on input symptoms. By blending machine learning principles with intuitive web technologies, the system aims to improve accessibility to preliminary healthcare guidance.
